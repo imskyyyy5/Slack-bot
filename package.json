@@ -1,0 +1,10 @@
+
+{
+    "name" : "Slaxkyyyy",
+    "version" : "1.0.0",
+    "description" : "A Slack bot that responds to messages",
+    "type" : "module",
+    "scripts" : {
+        "start": "node app.js"
+    }
+}
